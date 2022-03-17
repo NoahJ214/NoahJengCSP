@@ -1,3 +1,4 @@
+{% include navbar.html %}
 ## 5.1 and 5.2 Notes
 -Microtransactions: purchases made in free games/apps
 They are little payments for you to get cosmetics, paywall functionality, and are pay-to-win
