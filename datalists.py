@@ -17,6 +17,24 @@ InfoDb.append({
                "Email": "tanayr@gmail.com",  
                "Owns_Cars":["2018 Audi A4","2020 Tesla Model 3","2004 Honda Pilot"]  
               })  
+
+InfoDb.append({  
+               "FirstName": "Joe",  
+               "LastName": "Smith",  
+               "DOB": "June 24",  
+               "Residence": "New York",  
+               "Email": "Joesmith@gmail.com",  
+               "Owns_Cars":["Toyota", "Honda Civic", "Nissan"]  
+              })  
+
+InfoDb.append({  
+               "FirstName": "Bob",  
+               "LastName": "Jackson",  
+               "DOB": "Dec 12",  
+               "Residence": "Tokyo",  
+               "Email": "bobjackson@gmail.com",  
+               "Owns_Cars":["Chevy", "Mazda", "BMW"]  
+              })  
 # for loop iterates on length of InfoDb
 def print_data(n):
     print(InfoDb[n]["FirstName"], InfoDb[n]["LastName"])  # using comma puts space between values
