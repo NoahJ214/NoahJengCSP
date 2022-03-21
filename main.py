@@ -2,12 +2,13 @@
 # Two styles are supported to execute abstracted logic
 # 1. file names will be run by exec(open("filename.py").read())
 # 2. function references will be executed directly file.function()
+import datalists
 
 main_menu = [
     ["Swap", "swap.py"],
     ["Tree", "tree.py"],
     ["Fibonacci", "fibonacci.py"],
-    ["Datalists", "datalists.py"]
+    ["Datalists", datalists.main]
 ]
 
 # Submenu list of [Prompt, Action]
