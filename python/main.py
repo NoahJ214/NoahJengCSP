@@ -13,7 +13,7 @@ main_menu = [
     ["Datalists", datalists.datalists_run],
     ["Factorial", factorial.factorial_run],
     ["Palindrome", "python/week2/palindrome.py"],
-    ["Factors of #", math.factors],
+    ["Factors", math.factors],
     ["OOP Math", oop_math.factors]
 ]
 
