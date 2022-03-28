@@ -8,7 +8,10 @@ main_menu = [
     ["Swap", "swap.py"],
     ["Tree", "tree.py"],
     ["Fibonacci", "fibonacci.py"],
-    ["Datalists", datalists.main]
+    ["Datalists", datalists.main],
+    ["Factorial", "factorial.py"],
+    ["Palindrome", "palindrome.py"],
+    ["Factors of #", "math.py"],
 ]
 
 # Submenu list of [Prompt, Action]
@@ -16,7 +19,6 @@ main_menu = [
 sub_menu = [
     ["Ship", "ship.py"],
     ["Keypad", "keypad.py"]
-
 ]
 
 border = "=" * 25
