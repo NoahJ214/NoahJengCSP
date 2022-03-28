@@ -57,10 +57,13 @@ def recursive_loop(n):
         recursive_loop(n + 1)
     return
 
-def main():
+def datalists_run():
   print("For loop: ")
   for_loop()
   print("While loop: ")
   while_loop(0)
   print("Recursive loop: ")
   recursive_loop(0)
+
+if __name__ == "__main__":
+    datalists_run()

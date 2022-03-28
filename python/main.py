@@ -2,16 +2,19 @@
 # Two styles are supported to execute abstracted logic
 # 1. file names will be run by exec(open("filename.py").read())
 # 2. function references will be executed directly file.function()
-import datalists
+from week0 import keypad, ship, swap, tree
+from week1 import datalists, fibonacci
+from week2 import factorial, math, palindrome, oop_math
 
 main_menu = [
     ["Swap", "swap.py"],
     ["Tree", "tree.py"],
     ["Fibonacci", "fibonacci.py"],
-    ["Datalists", datalists.main],
-    ["Factorial", "factorial.py"],
+    ["Datalists", datalists.datalists_run],
+    ["Factorial", factorial.factorial_run],
     ["Palindrome", "palindrome.py"],
-    ["Factors of #", "math.py"],
+    ["Factors of #", math.factors],
+    ["OOP Math", oop_math.factors]
 ]
 
 # Submenu list of [Prompt, Action]

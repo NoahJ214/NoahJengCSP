@@ -10,3 +10,6 @@ def factors():
     print("hello from factors")
     num = int(input("Enter any Number to find its factors: "))
     findFactors(num)
+
+if __name__ == "__main__":
+    factors()
