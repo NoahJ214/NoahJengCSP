@@ -3,6 +3,8 @@ Our data structures project is for a club called TrailNorte. It is a club that i
 
 [Lists and Loops Review Ticket](https://github.com/NoahJ214/NoahJengCSP/issues/1)
 
+[Class Functions Review Ticket](https://github.com/NoahJ214/NoahJengCSP/issues/2)
+
 [Repl.it Menu](https://replit.com/@NoahJeng/NoahJengCSP)
 
 [Github](https://github.com/NoahJ214/Team-Screwdrivers)
