@@ -7,5 +7,5 @@ def ageChange(age1, age2):
     return age1,age2
 
 def run():
-  print( ageChange(3, 7) )
-  print( ageChange(7, 3) ) 
+  print(ageChange(3, 7))
+  print(ageChange(7, 3)) 

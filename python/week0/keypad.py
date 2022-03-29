@@ -10,7 +10,7 @@ def keypad():
   for i in range(R):          # A for loop for row entries
       a =[]
       for j in range(C):      # A for loop for column entries
-           a.append(int(input()))
+           a.append(input())
       matrix.append(a)
     
   # For printing the matrix

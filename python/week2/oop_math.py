@@ -14,5 +14,5 @@ def factors():
     if num < 0:
       print("Input an integer equal to or greater than 0")
     fac(num)
-  except:
+  except ValueError:
     print("Input an integer")
