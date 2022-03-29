@@ -7,7 +7,7 @@ from week1 import datalists, fibonacci
 from week2 import factorial, math, palindrome, oop_math
 
 main_menu = [
-    ["Swap", "swap.py"],
+    ["Swap", swap.run],
     ["Tree", "tree.py"],
     ["Fibonacci", "fibonacci.py"],
     ["Datalists", datalists.datalists_run],
@@ -22,6 +22,13 @@ main_menu = [
 sub_menu = [
     ["Ship", "ship.py"],
     ["Keypad", "keypad.py"]
+]
+
+math_sub_menu = [
+    ["Fibonacci", "fibonacci.py"],
+    ["Factorial", factorial.factorial_run],
+    ["Factors", math.factors],
+    ["OOP Math", oop_math.factors]
 ]
 
 border = "=" * 25
