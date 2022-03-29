@@ -7,8 +7,12 @@ class fact:
       print()
 
 def factors():
-  
-  fac = fact()
-  print("hello from factors")
-  num = int(input("Enter any Number to find its factors: "))
-  fac(num)
+  try:
+    fac = fact()
+    print("hello from factors")
+    num = int(input("Enter any Number to find its factors: "))
+    if num < 0:
+      print("Input an integer equal to or greater than 0")
+    fac(num)
+  except:
+    print("Input an integer")
