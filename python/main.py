@@ -7,58 +7,58 @@ from week1 import datalists, fibonacci
 from week2 import factorial, math, palindrome, oop_math
 
 main_menu = [
-    ["Swap", swap.run],
-    ["Tree", tree.run],
-    ["Fibonacci", fibonacci.run],
-    ["Datalists", datalists.datalists_run],
-    ["Factorial", factorial.factorial_run],
-    ["Palindrome", palindrome.run],
-    ["Factors", math.factors],
-    ["OOP Math", oop_math.factors]
+    
 ]
+
 
 # Submenu list of [Prompt, Action]
 # Works similarly to main_menu
-sub_menu = [
-    ["Ship", ship.ship],
-    ["Keypad", keypad.run]
+datasub_menu = [
+    ["Swap", swap.run],
+    ["Keypad", keypad.run],
+    ["Tree", tree.run],
+    ["Palindrome", palindrome.run],
+    ["Datalists", datalists.datalists_run]
 ]
 
-math_sub_menu = [
-    ["Fibonacci", "fibonacci.py"],
+mathsub_menu = [
+    ["Fibonacci", fibonacci.run],
     ["Factorial", factorial.factorial_run],
     ["Factors", math.factors],
     ["OOP Math", oop_math.factors]
+]
+
+adventuresub_menu = [
+    ["Ship", ship.ship]
 ]
 
 border = "=" * 25
 banner = f"\n{border}\nPlease Select An Option\n{border}"
 
 
-def menuc():
+def datasubmenu():
     title = "Class Menu" + banner
-    menu_list = main_menu.copy()
-    menu_list.append(["Submenu", submenuc])
-    m = questy.Menu(title, menu_list)
-    m.menu()  
+    buildMenu(title, datasub_menu) 
 
 
-def submenuc():
+def mathsubmenu():
     title = "Class Submenu" + banner
-    m = questy.Menu(title, sub_menu)
-    m.menu()
+    buildMenu(title, mathsub_menu)
+
+
+def adventuresubmenu():
+    title = "Function Submenu" + banner
+    buildMenu(title, adventuresub_menu)
 
 
 def menu():
     title = "Function Menu" + banner
     menu_list = main_menu.copy()
-    menu_list.append(["Submenu", submenu])
+    menu_list.append(["Data", datasubmenu])
+    menu_list.append(["Math", mathsubmenu])
+    menu_list.append(["Adventure", adventuresubmenu])
     buildMenu(title, menu_list)
 
-
-def submenu():
-    title = "Function Submenu" + banner
-    buildMenu(title, sub_menu)
 
 def buildMenu(banner, options):
 
