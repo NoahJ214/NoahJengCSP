@@ -1,3 +1,5 @@
+import random
+
 
 class factorial:
     def __call__(self, num):
@@ -8,9 +10,9 @@ class factorial:
 
 def factorial_run():
   fac = factorial()
-  number = 144
+  number = random.randint(0, 500)
   result = fac(number)
-  print("The factorial of ", number, "is",   result)
+  print("The factorial of", number, "is",   result)
   
   if __name__ == "__main__":
       factorial_run()
