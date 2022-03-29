@@ -12,7 +12,4 @@ def factorial_run():
   fac = factorial()
   number = random.randint(0, 500)
   result = fac(number)
-  print("The factorial of", number, "is",   result)
-  
-  if __name__ == "__main__":
-      factorial_run()
+  print("The factorial of", number, "is", result)

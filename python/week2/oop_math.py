@@ -7,10 +7,8 @@ class fact:
       print()
 
 def factors():
+  
   fac = fact()
   print("hello from factors")
   num = int(input("Enter any Number to find its factors: "))
   fac(num)
-
-if __name__ == "__main__":
-  factors()

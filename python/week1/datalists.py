@@ -64,6 +64,3 @@ def datalists_run():
   while_loop(0)
   print("Recursive loop: ")
   recursive_loop(0)
-
-if __name__ == "__main__":
-    datalists_run()
