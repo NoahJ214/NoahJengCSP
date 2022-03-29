@@ -20,8 +20,8 @@ main_menu = [
 # Submenu list of [Prompt, Action]
 # Works similarly to main_menu
 sub_menu = [
-    ["Ship", "ship.py"],
-    ["Keypad", "keypad.py"]
+    ["Ship", ship.ship],
+    ["Keypad", keypad.run]
 ]
 
 math_sub_menu = [

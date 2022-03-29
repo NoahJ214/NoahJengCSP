@@ -19,5 +19,5 @@ def keypad():
           print(matrix[i][j], end = " ")
       print()
 
-if __name__ == "__main__":
+def run():
     keypad()
