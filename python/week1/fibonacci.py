@@ -48,7 +48,7 @@ class Fibonacci:
 
 
 # Tester Code
-if __name__ == "__main__":
+def run():
     '''Value for testing'''
     n = int(input("Choose a number:"))
     '''Constructor of Class object'''

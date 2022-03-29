@@ -9,7 +9,7 @@ from week2 import factorial, math, palindrome, oop_math
 main_menu = [
     ["Swap", swap.run],
     ["Tree", tree.run],
-    ["Fibonacci", "fibonacci.py"],
+    ["Fibonacci", fibonacci.run],
     ["Datalists", datalists.datalists_run],
     ["Factorial", factorial.factorial_run],
     ["Palindrome", "python/week2/palindrome.py"],
