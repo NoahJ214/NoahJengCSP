@@ -12,7 +12,7 @@ main_menu = [
     ["Fibonacci", fibonacci.run],
     ["Datalists", datalists.datalists_run],
     ["Factorial", factorial.factorial_run],
-    ["Palindrome", "python/week2/palindrome.py"],
+    ["Palindrome", palindrome.run],
     ["Factors", math.factors],
     ["OOP Math", oop_math.factors]
 ]
