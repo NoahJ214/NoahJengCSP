@@ -11,10 +11,13 @@ def tree(n):
         x=x+2
         z=z-1
         print()
-tree(9)
+
 def pole(n):
     for i in range(0,n):
         for i in range(n+1):
             print(' ', end=' ')
         print('*****')
-pole(2)
+
+def run():
+  tree(9)
+  pole(2)
