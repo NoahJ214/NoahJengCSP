@@ -1,10 +1,15 @@
 {% include navbar.html %}
 
 ### Study Plan 
+
 -Monday: Finalize Createtask
+
 -Tuesday: Practice Compsci test (50 Questions)
+
 -Wednesday: Review practice compsci test and answers
+
 -Thursdsay: Practice compsci test 2 (50 questions)
+
 -Friday: Reflect on second practice test and look towards areas of improvement
 
 ### Test Corrections
