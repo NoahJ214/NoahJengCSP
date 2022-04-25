@@ -15,6 +15,16 @@
 ### Test Corrections
 -[Final MCQ 1 and MCQ2 Test Corrections](https://docs.google.com/document/d/1n2XxUQ9tEeN3yHcW-92vR7cw_Mu3eRTrssRe2BFfdNY/edit?usp=sharing)
 
+-Quiz 1 40/50
+
+-Quiz 2 46/50
+
+### Create Task 
+
+-[Github Pages](https://noahj214.github.io/NoahJengCSP/createtask)
+
+-[Create Task Video](https://www.youtube.com/watch?v=tIFjXzPk2rs&feature=youtu.be)
+
 ### Notes
 
 -[5.1 and 5.2 Notes](https://noahj214.github.io/NoahJengCSP/5.1&5.2notes)
