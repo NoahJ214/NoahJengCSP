@@ -54,13 +54,6 @@ The worldwide web accesses data through the internet.
 Individuals with a premium account won't recieve ads since that is a premium feature. 
 
 
-
-### Create Task 
-
--[Github Pages](https://noahj214.github.io/NoahJengCSP/createtask)
-
--[Repl](https://replit.com/@NoahJeng/Noah-and-Tim-Create-Task#main.py)
-
 ### Notes
 
 -[5.1 and 5.2 Notes](https://noahj214.github.io/NoahJengCSP/5.1&5.2notes)
