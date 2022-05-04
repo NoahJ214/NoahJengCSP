@@ -2,8 +2,6 @@
 
 ### Final Collegeboard Create Task 
 
--[Github Pages](https://noahj214.github.io/NoahJengCSP/createtask)
-
 -[Repl](https://replit.com/@NoahJeng/Noah-and-Tim-Create-Task#main.py)
 
 ### Idea
