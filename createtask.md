@@ -1,5 +1,11 @@
 {% include navbar.html %}
 
+### Final Collegeboard Create Task 
+
+-[Github Pages](https://noahj214.github.io/NoahJengCSP/createtask)
+
+-[Repl](https://replit.com/@NoahJeng/Noah-and-Tim-Create-Task#main.py)
+
 ### Idea
 I was thinking of doing something like a quiz or survey that the user can interact with. It will be similar to the pair/group create task that we did last tri. 
 We did a sports image quiz, where you guess different sports teams based on their logos. For my college board create task, I want to do something similar to this, however not based on sports.
