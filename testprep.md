@@ -59,7 +59,7 @@ Individuals with a premium account won't recieve ads since that is a premium fea
 
 -[Github Pages](https://noahj214.github.io/NoahJengCSP/createtask)
 
--[Create Task Video](https://www.youtube.com/watch?v=tIFjXzPk2rs&feature=youtu.be)
+-[Repl](https://replit.com/@NoahJeng/Noah-and-Tim-Create-Task#main.py)
 
 ### Notes
 
