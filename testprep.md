@@ -20,7 +20,7 @@
 -Quiz 2 46/50
 
 -Quiz 3 42/50
-## Corrections
+## Corrections Quiz 3
 -Question 2: 
 ![image](https://user-images.githubusercontent.com/89223537/166812559-796408fe-0ff1-42bb-a01a-20eb6f2f8969.png)
 For this question, I was thinking in a computer-science focused way, where all problems can be solved with an algorithm. However, there are many problems that expand beyond the realm of computer science that can't be solved with a single algorithm. 
@@ -52,6 +52,22 @@ The worldwide web accesses data through the internet.
 -Question 43
 ![image](https://user-images.githubusercontent.com/89223537/166815955-5621c11a-6e87-4ae3-9443-ed262e7e8524.png)
 Individuals with a premium account won't recieve ads since that is a premium feature. 
+
+-Quiz 5 47/50
+### Corrections Quiz 5
+-Question 15
+![image](https://user-images.githubusercontent.com/89223537/167211078-c8624eb7-7a10-4aa8-9f77-033cad4761c7.png)
+Program A displays 1-10 and Program B displays 2-11, meaning they both display 10 values. 
+
+-Question 16
+![image](https://user-images.githubusercontent.com/89223537/167211251-0ff78b0c-b563-48d6-992a-fb1b5725bc61.png)
+Both programs display values 1-10
+
+-Question 17
+![image](https://user-images.githubusercontent.com/89223537/167211443-5deb81ff-5feb-4937-a91c-d73dab9fbeb7.png)
+Program 1 runs GetPrediction once for EVERY element in the list, there are 4 of them, therefore it takes 4 minutes to run. Program 2 runs GetPrediction twice for EVERY element in the list as well as in the final display result. It takes 9 minutes for it to run, 9-4 =5. 
+
+
 
 
 ### Notes
