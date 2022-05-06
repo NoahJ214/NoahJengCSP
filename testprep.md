@@ -2,15 +2,15 @@
 
 ### Study Plan 
 
--Monday: Finalize Createtask
+-Monday: Submit Create task and written responses 
 
--Tuesday: Practice Compsci test (50 Questions)
+-Tuesday: Practice MC questions (independent)
 
--Wednesday: Review practice compsci test and answers
+-Wednesday: MC Quiz 5
 
--Thursdsay: Practice compsci test 2 (50 questions)
+-Thursdsay: Reflect on Quiz 5 and find areas to improve
 
--Friday: Reflect on second practice test and look towards areas of improvement
+-Friday: Practice MC Questions (independent)
 
 ### Test Corrections
 -[Final MCQ 1 and MCQ2 Test Corrections](https://docs.google.com/document/d/1n2XxUQ9tEeN3yHcW-92vR7cw_Mu3eRTrssRe2BFfdNY/edit?usp=sharing)
